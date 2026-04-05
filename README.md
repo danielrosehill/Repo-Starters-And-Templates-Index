@@ -12,7 +12,10 @@ An index of repository starter templates, scaffolds, and patterns for bootstrapp
 
 - [Claude Code Workspace Templates](#claude-code-workspace-templates)
 - [Claude Code Scaffolding Tools](#claude-code-scaffolding-tools)
+- [Demos](#demos)
 - [General Starters And Patterns](#general-starters-and-patterns)
+- [Guidance And Harnesses](#guidance-and-harnesses)
+- [Other Tool Specific](#other-tool-specific)
 - [Techniques](#techniques)
 
 ---
@@ -149,6 +152,16 @@ Slash command for setting up a split human-agent context system in Claude repos
 
 ---
 
+## Demos
+
+### Voice Spec Driven Development Demo
+
+Demonstrating a voice to text spec driven development workflow
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Spec-Driven-Development-Demo)
+
+---
+
 ## General Starters And Patterns
 
 ### Agent Network Expander Template
@@ -204,6 +217,26 @@ Template for TCI investigations workflow
 Starts new repos based on a Claude space template
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Templated-Repo-Kickstarter)
+
+---
+
+## Guidance And Harnesses
+
+### LLM Preferences Guide
+
+Predefined set of instructions for local agents governing LLM usage and selection (experiment)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/LLM-Preferences-Guide)
+
+---
+
+## Other Tool Specific
+
+### Cline Rules
+
+Rules file for Cline
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Cline-Rules)
 
 ---
 
