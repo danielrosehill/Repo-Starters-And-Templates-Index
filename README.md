@@ -13,6 +13,7 @@ An index of repository starter templates, scaffolds, and patterns for bootstrapp
 - [Claude Code Workspace Templates](#claude-code-workspace-templates)
 - [Claude Code Scaffolding Tools](#claude-code-scaffolding-tools)
 - [General Starters And Patterns](#general-starters-and-patterns)
+- [Techniques](#techniques)
 
 ---
 
@@ -76,6 +77,18 @@ Pattern for using Claude to help with any piece of writing
 
 ## Claude Code Scaffolding Tools
 
+### Agent Task Repo Pattern With MCP
+
+Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP)
+
+### Claude MCP Guidelines
+
+A home folder CLAUDE.md snippet to provide guidance on MCP selection
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-MCP-Guidelines)
+
 ### Claude Repo Jumper
 
 System prompt/skill for clean repo division with agentic development
@@ -101,6 +114,16 @@ Quick model/template for creating separate CLAUDE.md files for developers and us
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/ClaudeMD-Turnstile)
 
 ### Claudify This
+
+Slash command for asking Claude to proactively spawn Claude "helper" elements in a repo
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claudify-This)
+
+### Home Folder Claude MD
+
+CLAUDE.md for a home directory on an Ubuntu Linux desktop
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Home-Folder-Claude-MD)
 
 Slash command for asking Claude to proactively spawn Claude "helper" elements in a repo
 
@@ -181,6 +204,16 @@ Template for TCI investigations workflow
 Starts new repos based on a Claude space template
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Templated-Repo-Kickstarter)
+
+---
+
+## Techniques
+
+### Agent Handover Demo
+
+Model for simple handover management (via docs!) between AI agents
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Agent-Handover-Demo)
 
 ---
 
