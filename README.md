@@ -76,6 +76,12 @@ Pattern for using Claude to help with any piece of writing
 
 ## Claude Code Scaffolding Tools
 
+### Claude Repo Jumper
+
+System prompt/skill for clean repo division with agentic development
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Repo-Jumper)
+
 ### Claude Repo Creator
 
 A Claude Code workspace/wrapper for creating repositories optimised for Claude Code
@@ -99,6 +105,12 @@ Quick model/template for creating separate CLAUDE.md files for developers and us
 Slash command for asking Claude to proactively spawn Claude "helper" elements in a repo
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claudify-This)
+
+### Make Agent Friendly
+
+Claude plugin for refactoring human-developed codebases for agentic readiness
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Make-Agent-Friendly)
 
 ### Split Claude MD Pattern
 
@@ -127,6 +139,12 @@ Modelling how AI assistants can ideate the expansion of agent/assistant networks
 Pattern for creating a modular spec-definition format for AI coding agents from one initial plan ingestion
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Project-Spec-Pattern)
+
+### AI Workspace Planning Notes
+
+Spec/notes for an AI workspace planning project, consolidating previous notes
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
 
 ### ASR Training Data Collector GUI Template
 
