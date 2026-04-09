@@ -1,0 +1,483 @@
+{
+  "title": "Repo Starters And Templates Index",
+  "description": "An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.",
+  "last_updated": "April 2026",
+  "github_user": "danielrosehill",
+  "sections": [
+    {
+      "name": "Claude Code Workspace Templates",
+      "entries": [
+        {
+          "name": "Claude ADB Workspace Template",
+          "repo": "Claude-ADB-Workspace-Template",
+          "description": "Claude Code workspace template for Android Debug Bridge workflows"
+        },
+        {
+          "name": "Claude ADHD Research Workspace",
+          "repo": "Claude-ADHD-Research-Workspace",
+          "description": "Claude research notebook into ADHD drug access"
+        },
+        {
+          "name": "Claude Agent Workspace Model",
+          "repo": "Claude-Agent-Workspace-Model",
+          "description": "Outline for using various repositories as discrete workspaces for Claude Code"
+        },
+        {
+          "name": "Claude Blog Manager",
+          "repo": "Claude-Blog-Manager",
+          "description": "Conversational CMS — model for using a Claude workspace to manage content"
+        },
+        {
+          "name": "Claude Budget Workspace Template",
+          "repo": "Claude-Budget-Workspace-Template",
+          "description": "Template for using Claude for household budget management"
+        },
+        {
+          "name": "Claude Business Idea Evaluator",
+          "repo": "Claude-Business-Idea-Evaluator",
+          "description": "Model/template: using Claude Code to evaluate business ideas"
+        },
+        {
+          "name": "Claude Code Lawyer",
+          "repo": "Claude-Code-Lawyer",
+          "description": "Template for using Claude Code for legal research"
+        },
+        {
+          "name": "Claude Code Remote Machine Admin Space",
+          "repo": "Claude-Code-Remote-Machine-Admin-Space",
+          "description": "Template Claude Code workspace for administering remote machines"
+        },
+        {
+          "name": "Claude Code Writing Squad",
+          "repo": "Claude-Code-Writing-Squad",
+          "description": "Model repository structure for using a Claude Code agent crew for writing related tasks"
+        },
+        {
+          "name": "Claude Comms Strategist Template",
+          "repo": "Claude-Comms-Strategist-Template",
+          "description": "Claude Code template for using Claude Code as a workspace for communications strategy and planning"
+        },
+        {
+          "name": "Claude Competitor Research Agent",
+          "repo": "Claude-Competitor-Research-Agent",
+          "description": "Claude agent template for competitor research"
+        },
+        {
+          "name": "Claude Debugging Workspace",
+          "repo": "Claude-Debugging-Workspace",
+          "description": "Template for using Claude Code for time-limited or ongoing debugging tasks"
+        },
+        {
+          "name": "Claude Decision Evaluation Framework",
+          "repo": "Claude-Decision-Evaluation-Framework",
+          "description": "Claude Code model for decision evaluation"
+        },
+        {
+          "name": "Claude Deep Research Template",
+          "repo": "Claude-Deep-Research-Template",
+          "description": "Template for Claude Code deep research pattern"
+        },
+        {
+          "name": "Claude Diary Planner Template",
+          "repo": "Claude-Diary-Planner-Template",
+          "description": "Template Claude Code repo for workflow and time management planning"
+        },
+        {
+          "name": "Claude Docker Manager",
+          "repo": "Claude-Docker-Manager",
+          "description": "Template management workspace for using Claude to co-admin a Docker environment"
+        },
+        {
+          "name": "Claude Evidence Assistant",
+          "repo": "Claude-Evidence-Assistant",
+          "description": "Workspace template for using Claude Code to create digital evidence bundles"
+        },
+        {
+          "name": "Claude Gdrive Organiser",
+          "repo": "Claude-Gdrive-Organiser",
+          "description": "Template/pattern for using Claude Code to tame unwieldy Google Drives without OAuth"
+        },
+        {
+          "name": "Claude Github Shortlister",
+          "repo": "Claude-Github-Shortlister",
+          "description": "Template: use Claude to shortlist potential tools/components"
+        },
+        {
+          "name": "Claude Home Assistant Manager Template",
+          "repo": "Claude-Home-Assistant-Manager-Template",
+          "description": "Template for a Claude Code config at the base of a HAOS filesystem"
+        },
+        {
+          "name": "Claude Job Search Strategist",
+          "repo": "Claude-Job-Search-Strategist",
+          "description": "Template for a Claude Code job search space"
+        },
+        {
+          "name": "Claude Lawyer ISR",
+          "repo": "Claude-Lawyer-ISR",
+          "description": "Israel-specific variant of Claude Code repo template for legal analysis and advice"
+        },
+        {
+          "name": "Claude Legal Aid Clinic",
+          "repo": "Claude-Legal-Aid-Clinic",
+          "description": "Simulated legal aid clinic staffed by AI agents"
+        },
+        {
+          "name": "Claude Linux Server Manager",
+          "repo": "Claude-Linux-Server-Manager",
+          "description": "Template repository for creating a Claude Code structured workspace in a remote server environment"
+        },
+        {
+          "name": "Claude MVT Workspace",
+          "repo": "Claude-MVT-Workspace",
+          "description": "Repository template for using Claude to orchestrate an MVT scan over ADB"
+        },
+        {
+          "name": "Claude OSINT Investigator",
+          "repo": "Claude-OSINT-Investigator",
+          "description": "Template for using Claude Code for OSINT-led investigations"
+        },
+        {
+          "name": "Claude Personal Development Workspace",
+          "repo": "Claude-Personal-Development-Workspace",
+          "description": "Template for using Claude Code to track habit development and other \"life projects\""
+        },
+        {
+          "name": "Claude Preparedness Planner",
+          "repo": "Claude-Preparedness-Planner",
+          "description": "Claude workspace template for preparedness planning"
+        },
+        {
+          "name": "Claude Proxmox Manager Template",
+          "repo": "Claude-Proxmox-Manager-Template",
+          "description": "Claude Code server manager template adapter for Proxmox environments"
+        },
+        {
+          "name": "Claude Purchasing Assistant",
+          "repo": "Claude-Purchasing-Assistant",
+          "description": "Template for Claude Code repo for purchase planning"
+        },
+        {
+          "name": "Claude Red Team Buyer",
+          "repo": "Claude-Red-Team-Buyer",
+          "description": "Claude agent template for evaluating branding and messaging"
+        },
+        {
+          "name": "Claude Redaction And Obfuscation",
+          "repo": "Claude-Redaction-And-Obfuscation",
+          "description": "Claude Code workspace for document redaction and identity obfuscation"
+        },
+        {
+          "name": "Claude Report Parsing Space Template",
+          "repo": "Claude-Report-Parsing-Space-Template",
+          "description": "Claude Code repo template for report analysis"
+        },
+        {
+          "name": "Claude Research Space Public Template",
+          "repo": "Claude-Research-Space-Public-Template",
+          "description": "Public template for Claude Code research workspaces"
+        },
+        {
+          "name": "Claude Research Workspace General Template",
+          "repo": "Claude-Research-Workspace-General-Template",
+          "description": "Template for iterative AI research using Claude Code — folder-based context/prompt/output workflow with compaction loop"
+        },
+        {
+          "name": "Claude Rig Planner",
+          "repo": "Claude-Rig-Planner",
+          "description": "Template Claude space for computer upgrade planning"
+        },
+        {
+          "name": "Claude Salary Research Agent",
+          "repo": "Claude-Salary-Research-Agent",
+          "description": "Claude agent skeleton for conducting salary research"
+        },
+        {
+          "name": "Claude Server Mgmt Template SBCs",
+          "repo": "Claude-Server-Mgmt-Template-SBCs",
+          "description": "Claude Code server manager template adapted for single board computers"
+        },
+        {
+          "name": "Claude Stack Research Workspace",
+          "repo": "Claude-Stack-Research-Workspace",
+          "description": "Claude Code workspace template for tech stack research"
+        },
+        {
+          "name": "Claude Synology Manager",
+          "repo": "Claude-Synology-Manager",
+          "description": "Claude workspace (pattern) for managing a LAN Synology NAS"
+        },
+        {
+          "name": "Claude Tech Research Team",
+          "repo": "Claude-Tech-Research-Team",
+          "description": "Example/template for using a Claude Code repo structure for tech/stack research"
+        },
+        {
+          "name": "Claude Therapy Tracker",
+          "repo": "Claude-Therapy-Tracker",
+          "description": "Model/template for using Claude Code for therapy tracking"
+        },
+        {
+          "name": "Claude Think Tank",
+          "repo": "Claude-Think-Tank",
+          "description": "Model repository for a think tank composed of AI agents focused on research and policy proposals"
+        },
+        {
+          "name": "Claude Web Analytics Space",
+          "repo": "Claude-Web-Analytics-Space",
+          "description": "Template for using Claude Code to streamline website data analytics"
+        },
+        {
+          "name": "Claude Writing Space Template",
+          "repo": "Claude-Writing-Space-Template",
+          "description": "Pattern for using Claude to help with any piece of writing"
+        },
+        {
+          "name": "General Agent Workspace Template",
+          "repo": "General-Agent-Workspace-Template",
+          "description": "General purpose file scaffold / workspace for human-AI-agent collaboration"
+        },
+        {
+          "name": "Proofmode Unpacker",
+          "repo": "Proofmode-Unpacker",
+          "description": "Claude space template for processing Proofmode evidence bundles"
+        }
+      ]
+    },
+    {
+      "name": "Claude Code Scaffolding Tools",
+      "entries": [
+        {
+          "name": "Agent Task Repo Pattern With MCP",
+          "repo": "Agent-Task-Repo-Pattern-With-MCP",
+          "description": "Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH"
+        },
+        {
+          "name": "Claude MCP Guidelines",
+          "repo": "Claude-MCP-Guidelines",
+          "description": "A home folder CLAUDE.md snippet to provide guidance on MCP selection"
+        },
+        {
+          "name": "Claude Repo Creator",
+          "repo": "Claude-Repo-Creator",
+          "description": "A Claude Code workspace/wrapper for creating repositories optimised for Claude Code"
+        },
+        {
+          "name": "Claude Repo Jumper",
+          "repo": "Claude-Repo-Jumper",
+          "description": "System prompt/skill for clean repo division with agentic development"
+        },
+        {
+          "name": "Claude Repo Retrofitter",
+          "repo": "Claude-Repo-Retrofitter",
+          "description": "Slash command/skill template for scaffolding Claude Code foundational files in old repos"
+        },
+        {
+          "name": "ClaudeMD Turnstile",
+          "repo": "ClaudeMD-Turnstile",
+          "description": "Quick model/template for creating separate CLAUDE.md files for developers and users"
+        },
+        {
+          "name": "Claudify This",
+          "repo": "Claudify-This",
+          "description": "Slash command for asking Claude to proactively spawn Claude \"helper\" elements in a repo"
+        },
+        {
+          "name": "Home Folder Claude MD",
+          "repo": "Home-Folder-Claude-MD",
+          "description": "CLAUDE.md for a home directory on an Ubuntu Linux desktop"
+        },
+        {
+          "name": "Make Agent Friendly",
+          "repo": "Make-Agent-Friendly",
+          "description": "Claude plugin for refactoring human-developed codebases for agentic readiness"
+        },
+        {
+          "name": "Split Claude MD Pattern",
+          "repo": "Split-Claude-MD-Pattern",
+          "description": "Demo/pattern for creating a home CLAUDE.md optimised for context handling"
+        },
+        {
+          "name": "Split Context Setup",
+          "repo": "Split-Context-Setup",
+          "description": "Slash command for setting up a split human-agent context system in Claude repos"
+        }
+      ]
+    },
+    {
+      "name": "Demos",
+      "entries": [
+        {
+          "name": "Voice Spec Driven Development Demo",
+          "repo": "Voice-Spec-Driven-Development-Demo",
+          "description": "Demonstrating a voice to text spec driven development workflow"
+        }
+      ]
+    },
+    {
+      "name": "General Starters And Patterns",
+      "entries": [
+        {
+          "name": "Agent Network Expander Template",
+          "repo": "Agent-Network-Expander-Template",
+          "description": "Modelling how AI assistants can ideate the expansion of agent/assistant networks through a simple example-following pattern"
+        },
+        {
+          "name": "Agents.md Templates",
+          "repo": "Agents.md-Templates",
+          "description": "Template agents.md files for use with OpenAI Codex"
+        },
+        {
+          "name": "AI Assistant Template",
+          "repo": "AI-Assistant-Template",
+          "description": "Template repository for version controlling AI assistant configurations and associated context data"
+        },
+        {
+          "name": "AI Dev Repo Template Oct 2025",
+          "repo": "AI-Dev-Repo-Template-Oct-2025",
+          "description": "Updated AI-assisted dev repo template (swap preferred CLI)"
+        },
+        {
+          "name": "AI Project Spec Pattern",
+          "repo": "AI-Project-Spec-Pattern",
+          "description": "Pattern for creating a modular spec-definition format for AI coding agents from one initial plan ingestion"
+        },
+        {
+          "name": "AI Workspace Planning Notes",
+          "repo": "Ai-Workspace-Planning-Notes",
+          "description": "Spec/notes for an AI workspace planning project, consolidating previous notes"
+        },
+        {
+          "name": "ASR Training Data Collector GUI Template",
+          "repo": "ASR-Training-Data-Collector-GUI-Template",
+          "description": "Template for ASR training data collection with a GUI interface"
+        },
+        {
+          "name": "Astrostarter",
+          "repo": "astrostarter",
+          "description": "A few spins on the Astro starter theme demonstrating capabilities worth adding to the framework"
+        },
+        {
+          "name": "Claude Spec Starter",
+          "repo": "Claude-Spec-Starter",
+          "description": "Pattern for AI assisted development starting from one (long) user prompt"
+        },
+        {
+          "name": "Document Templates",
+          "repo": "Document-Templates",
+          "description": "A collection of markdown document templates"
+        },
+        {
+          "name": "Environment Docs Template",
+          "repo": "Environment-Docs-Template",
+          "description": "Pattern for a structured docs repository within an environment for AI and humans"
+        },
+        {
+          "name": "Github Subindex Template",
+          "repo": "Github-Subindex-Template",
+          "description": "Template repository for creating new GitHub subindices"
+        },
+        {
+          "name": "Hardware Probe Agent Template",
+          "repo": "Hardware-Probe-Agent-Template",
+          "description": "AI agent template using SSH MCP to probe remotes and generate structured hardware reports"
+        },
+        {
+          "name": "LLM Workspace Scaffolder",
+          "repo": "LLM-Workspace-Scaffolder",
+          "description": "Quick scaffolding script for populating a repository with folders for prompts and outputs"
+        },
+        {
+          "name": "LLM Workspace Scaffolding",
+          "repo": "LLM-Workspace-Scaffolding",
+          "description": "A folder structure (scaffold) for systematic LLM workflows"
+        },
+        {
+          "name": "Markdown Templates For LLM Work",
+          "repo": "Markdown-Templates-For-LLM-Work",
+          "description": "Basic templates for saving LLM outputs in markdown-friendly notebooks"
+        },
+        {
+          "name": "My Scaffolding Templates",
+          "repo": "My-Scaffolding-Templates",
+          "description": "File structure templates for common projects"
+        },
+        {
+          "name": "Personal AI Agent Development Template",
+          "repo": "Personal-AI-Agent-Development-Template",
+          "description": "Model template/skeleton for creating personalised LLM agents"
+        },
+        {
+          "name": "Personal Context AI Agent Pattern Model",
+          "repo": "Personal-Context-AI-Agent-Pattern-Model",
+          "description": "Pattern for building AI agents for in-depth exploration of specific issues"
+        },
+        {
+          "name": "Project Planning Template",
+          "repo": "Project-Planning-Template",
+          "description": "Repository template for an \"idea parking\" system that uses AI to spec out an initial idea for later iteration"
+        },
+        {
+          "name": "Red Alert HA Template 0825",
+          "repo": "Red-Alert-HA-Template-0825",
+          "description": "Updated Red Alert Home Assistant template (August 2025)"
+        },
+        {
+          "name": "Repo Fresh Starter",
+          "repo": "Repo-Fresh-Starter",
+          "description": "Quick util for creating a new repository for iterating on ideas"
+        },
+        {
+          "name": "Scaffolding Scripts",
+          "repo": "Scaffolding-Scripts",
+          "description": "Scripts for scaffolding commonly used folder structures"
+        },
+        {
+          "name": "Sveltekit Starter",
+          "repo": "sveltekit-starter",
+          "description": "Starter repo to get started with SvelteKit and Contentful"
+        },
+        {
+          "name": "TCI Investigations Template",
+          "repo": "TCI-Investigations-Template",
+          "description": "Template for TCI investigations workflow"
+        },
+        {
+          "name": "Templated Repo Kickstarter",
+          "repo": "Templated-Repo-Kickstarter",
+          "description": "Starts new repos based on a Claude space template"
+        }
+      ]
+    },
+    {
+      "name": "Guidance And Harnesses",
+      "entries": [
+        {
+          "name": "LLM Preferences Guide",
+          "repo": "LLM-Preferences-Guide",
+          "description": "Predefined set of instructions for local agents governing LLM usage and selection (experiment)"
+        }
+      ]
+    },
+    {
+      "name": "Other Tool Specific",
+      "entries": [
+        {
+          "name": "Cline Rules",
+          "repo": "Cline-Rules",
+          "description": "Rules file for Cline"
+        }
+      ]
+    },
+    {
+      "name": "Techniques",
+      "entries": [
+        {
+          "name": "Agent Handover Demo",
+          "repo": "Agent-Handover-Demo",
+          "description": "Model for simple handover management (via docs) between AI agents"
+        }
+      ]
+    }
+  ]
+}
