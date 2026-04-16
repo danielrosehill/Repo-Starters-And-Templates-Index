@@ -22,11 +22,11 @@ An index of repository starter templates, scaffolds, and patterns for bootstrapp
 
 ## Claude Code Workspace Templates
 
-### Bash Alias Manager Claude
+### Bug Tracker Template
 
-Claude agent directory for managing bash aliases
+Bug tracking and fix documentation workspace with root cause analysis
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Bash-Alias-Manager-Claude)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Bug-Tracker-Template)
 
 ### Claude ADB Workspace Template
 
@@ -58,17 +58,23 @@ Conversational CMS — model for using a Claude workspace to manage content
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Blog-Manager)
 
+### Claude Browser Automation Template
+
+Workspace for using Claude Code + BrowserMCP to reverse-engineer and script browser automation tasks against specific websites
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Browser-Automation-Template)
+
 ### Claude Budget Workspace Template
 
 Template for using Claude for household budget management
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
 
-### Claude Business Continuity Planner
+### Claude Business Evaluator
 
-Claude workspace for business continuity planning
+Model/template: using Claude Code to evaluate business ideas
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Business-Continuity-Planner)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Business-Evaluator)
 
 ### Claude Business Idea Evaluator
 
@@ -76,17 +82,11 @@ Model/template: using Claude Code to evaluate business ideas
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Business-Idea-Evaluator)
 
-### Claude Code Bash Aliases
+### Claude Career Planning Template
 
-A few bash aliases to support efficient Claude Code use
+Career planning workspace for continuous professional development — tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-Bash-Aliases)
-
-### Claude Code LAN Manager
-
-Repo for using Claude Code to manage local servers/homelabs
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-LAN-Manager)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Career-Planning-Template)
 
 ### Claude Code Lawyer
 
@@ -148,17 +148,17 @@ Template management workspace for using Claude to co-admin a Docker environment
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Docker-Manager)
 
-### Claude Document This
-
-Slash command for asking Claude Code to document fixes to various target filesystems
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Document-This)
-
 ### Claude Evidence Assistant
 
 Workspace template for using Claude Code to create digital evidence bundles
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Evidence-Assistant)
+
+### Claude FS Organiser
+
+Claude workspace for organising cluttered filesystems
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-FS-Organiser)
 
 ### Claude Gdrive Organiser
 
@@ -184,11 +184,17 @@ Template for a Claude Code config at the base of a HAOS filesystem
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Home-Assistant-Manager-Template)
 
-### Claude Is Awesome
+### Claude House Search Template
 
-Awesome list creator using Claude Code
+Workspace for managing a property search — adapts to rent, first-time buyer, or buyer mode. Tracks listings, viewings, agents, areas, comparables, offers, mortgage and legal.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Is-Awesome)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-House-Search-Template)
+
+### Claude Israel Shopping Recommender Template
+
+Israel-focused shopping recommender — domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel-Shopping-Recommender-Template)
 
 ### Claude Job Search Strategist
 
@@ -208,23 +214,11 @@ Simulated legal aid clinic staffed by AI agents
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Legal-Aid-Clinic)
 
-### Claude Linux Desktop Manager
-
-WIP/Plan: extension of slash commands to an actual GUI/program
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
-
 ### Claude Linux Server Manager
 
 Template repository for creating a Claude Code structured workspace in a remote server environment
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
-
-### Claude Media Monitor
-
-Slash command for fetching news articles for human analysis
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Media-Monitor)
 
 ### Claude MVT Workspace
 
@@ -232,17 +226,17 @@ Repository template for using Claude to orchestrate an MVT scan over ADB
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-MVT-Workspace)
 
-### Claude OS Sync Agent
-
-Idea — using Claude Code in place of Ansible for cross-device updating/sync
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-OS-Sync-Agent)
-
 ### Claude OSINT Investigator
 
 Template for using Claude Code for OSINT-led investigations
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-OSINT-Investigator)
+
+### Claude Parenting Planner
+
+Claude Code workspace for parenting planning — schedules, logistics, milestones, education, health, and family decision logs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Parenting-Planner)
 
 ### Claude Personal Development Workspace
 
@@ -267,6 +261,12 @@ Claude Code server manager template adapter for Proxmox environments
 Template for Claude Code repo for purchase planning
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Purchasing-Assistant)
+
+### Claude Recommendation Workspace Template
+
+AI-assisted content recommendations workspace that learns user preferences and improves suggestions over time across formats like podcasts, books, films, or articles
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Recommendation-Workspace-Template)
 
 ### Claude Red Team Buyer
 
@@ -298,12 +298,6 @@ Template for iterative AI research using Claude Code — folder-based context/pr
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Research-Workspace-General-Template)
 
-### Claude Resource List Builder
-
-Claude pattern for generating resource lists
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Resource-List-Builder)
-
 ### Claude Rig Planner
 
 Template Claude space for computer upgrade planning
@@ -322,11 +316,17 @@ Claude Code server manager template adapted for single board computers
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Server-Mgmt-Template-SBCs)
 
-### Claude Space Self-ideator
+### Claude Single Company Research
 
-Claude Code ideating new applications for Claude Code workspaces, especially in non-tech domains
+Targeted intelligence-gathering workspace dedicated to a single company of interest. Multi-lens evaluation depth on one entity, not breadth across many.
 
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Space-Self-ideator)
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Single-Company-Research)
+
+### Claude Slash Commands
+
+My Claude Code slash commands
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Slash-Commands)
 
 ### Claude Spam Warrior
 
@@ -340,12 +340,6 @@ Claude Code workspace template for tech stack research
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
 
-### Claude Sub-Agent Network
-
-Collection of subagents for Claude Code with configs spanning ideation, editing, version control
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Sub-Agent-Network)
-
 ### Claude Synology Manager
 
 Claude workspace (pattern) for managing a LAN Synology NAS
@@ -357,6 +351,12 @@ Claude workspace (pattern) for managing a LAN Synology NAS
 Example/template for using a Claude Code repo structure for tech/stack research
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Tech-Research-Team)
+
+### Claude Technical Research Template
+
+Workspace for asking Claude technical how-to questions and publishing the answers as living, maintainable guides
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Technical-Research-Template)
 
 ### Claude Therapy Tracker
 
@@ -382,11 +382,65 @@ Pattern for using Claude to help with any piece of writing
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Writing-Space-Template)
 
+### Company Research
+
+Agentic AI workspace for conducting deep research into companies 
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Company-Research)
+
+### Conference Simulation Template
+
+Multi-perspective conference/symposium simulation with AI speaker personas
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Conference-Simulation-Template)
+
+### Context Maintenance Template
+
+RAG vector store maintenance workspace with Pinecone MCP for ingestion, cleanup, and reconciliation
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Context-Maintenance-Template)
+
+### Council Of Maniacs
+
+GitHub template: Council-Of-Maniacs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Council-Of-Maniacs)
+
+### Debate Mapper Template
+
+Map debate perspectives and compare policies across countries with cluster visualization
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Debate-Mapper-Template)
+
+### Developer Notebook Template
+
+Structured developer reference notebook with categorized entries, snippets, and learnings
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Developer-Notebook-Template)
+
 ### Ecosystem Mapper
 
 Claude research utility to delineate an emerging tech ecosystem
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ecosystem-Mapper)
+
+### Ecosystem Mapper Template
+
+Topic-scoped technology ecosystem map template — 22 entity buckets, /onboard + lens commands, optional geographic-lens overlay (soft, not a gate). Companion to Geo-Ecosystem-Template.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ecosystem-Mapper-Template)
+
+### Experiment Report Template
+
+Run experiments, collect trial data, analyze results, and generate reports
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Experiment-Report-Template)
+
+### Feature Ideas Template
+
+Capture, categorize, and prioritize feature ideas and requests
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Feature-Ideas-Template)
 
 ### General Agent Workspace Template
 
@@ -394,17 +448,143 @@ General purpose file scaffold / workspace for human-AI-agent collaboration
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/General-Agent-Workspace-Template)
 
+### Geo Ecosystem Template
+
+Geography-specific tech/industry ecosystem directory with categorized entries
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Geo-Ecosystem-Template)
+
+### Github Index Maintainer
+
+Maintance agent for indexing repos
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Github-Index-Maintainer)
+
+### Idea Capture Template
+
+Multi-source idea capture workspace with voice recording transcription and consolidation
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Idea-Capture-Template)
+
+### Ideas To Reports Template
+
+Gather ideas, consolidate themes, and produce Typst-rendered stakeholder reports
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ideas-To-Reports-Template)
+
+### Ideation Runner Template
+
+Structured AI ideation sessions with configurable topics and synthesis
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Ideation-Runner-Template)
+
 ### Im Not Okay
 
-POC/demo/concept — using AI to frontload therapy
+POC/Demo/Concept - using AI to frontload therapy
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Im-Not-Okay)
+
+### Index
+
+A repository that indexes my Github projects
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Index)
+
+### Inventory Analyst Template
+
+AI-powered inventory data analysis for duplicates, anomalies, and optimization
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Inventory-Analyst-Template)
+
+### Negotiation Simulation Template
+
+Multi-party negotiation and diplomacy simulation workspace with configurable actors and synthesis
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Negotiation-Simulation-Template)
+
+### Opinion Blog Template
+
+Personal opinion blog as a git repository with essay management and export
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Opinion-Blog-Template)
+
+### Perspective Finder Prompt
+
+Prompt for mapping out nuances in debates
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Perspective-Finder-Prompt)
+
+### Process Docs Template
+
+Generate and maintain process documentation, workflow guides, and handbooks
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Process-Docs-Template)
+
+### Project Ideas Template
+
+Track project ideas and feature requests for a software platform
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Project-Ideas-Template)
+
+### Prompt Factory Template
+
+Generate system prompts by combining configurable variable dimensions
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Prompt-Factory-Template)
+
+### Prompt Library Template
+
+Curated prompt library with metadata, categorization, and search
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Prompt-Library-Template)
 
 ### Proofmode Unpacker
 
 Claude space template for processing Proofmode evidence bundles
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Proofmode-Unpacker)
+
+### SOP Builder Template
+
+Create SOPs, decision flowcharts, and checklists from best practice guidelines
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/SOP-Builder-Template)
+
+### Tech Radar Template
+
+Personal tech radar for tracking interesting projects, tools, and resources
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Radar-Template)
+
+### Tech Stack Template
+
+Document a personal or team tech stack with rationale and alternatives
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Stack-Template)
+
+### Transcript Cleanup Template
+
+Audio transcript cleanup workspace with Whisper transcription, diarisation, and PDF export
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Transcript-Cleanup-Template)
+
+### Wiki Template
+
+Personal or project wiki with structured pages, cross-links, and navigation
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Wiki-Template)
+
+### WIP Idea Template
+
+Capture a single idea from voice notes, docs, or sketches and track its development
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/WIP-Idea-Template)
+
+### Writing Examples Template
+
+Collect writing format examples and generate AI-grounding style guides
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Writing-Examples-Template)
 
 ---
 
@@ -514,18 +694,6 @@ Updated AI-assisted dev repo template (swap preferred CLI)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
 
-### AI EQ Assistant
-
-Helper utility for finding good personal EQ settings
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-EQ-Assistant)
-
-### AI Human Attribution Adder
-
-Slash command for AI agents to note who did what
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Human-Attribution-Adder)
-
 ### AI Project Spec Pattern
 
 Pattern for creating a modular spec-definition format for AI coding agents from one initial plan ingestion
@@ -550,12 +718,6 @@ A few spins on the Astro starter theme demonstrating capabilities worth adding t
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/astrostarter)
 
-### Business Idea Refinement Agent
-
-AI agent that helps users to explore business ideas and receive first-pass feedback
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Business-Idea-Refinement-Agent)
-
 ### Claude Spec Starter
 
 Pattern for AI assisted development starting from one (long) user prompt
@@ -573,12 +735,6 @@ A collection of markdown document templates
 Pattern for a structured docs repository within an environment for AI and humans
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Environment-Docs-Template)
-
-### Gemini CLI Home Guidance
-
-Gemini.md ("rules") for the home folder / non-repo-constrained execution for Gemini CLI
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Gemini-CLI-Home-Guidance)
 
 ### Github Subindex Template
 
@@ -628,12 +784,6 @@ Pattern for building AI agents for in-depth exploration of specific issues
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Personal-Context-AI-Agent-Pattern-Model)
 
-### Perspective Finder Prompt
-
-Prompt for mapping out nuances in debates
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Perspective-Finder-Prompt)
-
 ### Project Planning Template
 
 Repository template for an "idea parking" system that uses AI to spec out an initial idea for later iteration
@@ -675,18 +825,6 @@ Template for TCI investigations workflow
 Starts new repos based on a Claude space template
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Templated-Repo-Kickstarter)
-
-### Voice Note Ragie Pipeline
-
-Test pipeline: voice context data to Ragie vector database
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline)
-
-### Voice Training Script Generator
-
-Helper utils for generating training data for voice cloning with LLMs
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Voice-Training-Script-Generator)
 
 ---
 

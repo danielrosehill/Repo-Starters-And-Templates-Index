@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf ~/.claude/skills/new-repo-from-template)",
+      "Read(//home/daniel/.claude/skills/**)"
+    ]
+  }
+}

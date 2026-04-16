@@ -8,6 +8,11 @@
       "name": "Claude Code Workspace Templates",
       "entries": [
         {
+          "name": "Bug Tracker Template",
+          "repo": "Bug-Tracker-Template",
+          "description": "Bug tracking and fix documentation workspace with root cause analysis"
+        },
+        {
           "name": "Claude ADB Workspace Template",
           "repo": "Claude-ADB-Workspace-Template",
           "description": "Claude Code workspace template for Android Debug Bridge workflows"
@@ -16,6 +21,11 @@
           "name": "Claude ADHD Research Workspace",
           "repo": "Claude-ADHD-Research-Workspace",
           "description": "Claude research notebook into ADHD drug access"
+        },
+        {
+          "name": "Claude Agent Workspace Generator",
+          "repo": "Claude-Agent-Workspace-Generator",
+          "description": "Claude utility for creating workspace templates for agentic AI tools"
         },
         {
           "name": "Claude Agent Workspace Model",
@@ -28,14 +38,29 @@
           "description": "Conversational CMS — model for using a Claude workspace to manage content"
         },
         {
+          "name": "Claude Browser Automation Template",
+          "repo": "Claude-Browser-Automation-Template",
+          "description": "Workspace for using Claude Code + BrowserMCP to reverse-engineer and script browser automation tasks against specific websites"
+        },
+        {
           "name": "Claude Budget Workspace Template",
           "repo": "Claude-Budget-Workspace-Template",
           "description": "Template for using Claude for household budget management"
         },
         {
+          "name": "Claude Business Evaluator",
+          "repo": "Claude-Business-Evaluator",
+          "description": "Model/template: using Claude Code to evaluate business ideas"
+        },
+        {
           "name": "Claude Business Idea Evaluator",
           "repo": "Claude-Business-Idea-Evaluator",
           "description": "Model/template: using Claude Code to evaluate business ideas"
+        },
+        {
+          "name": "Claude Career Planning Template",
+          "repo": "Claude-Career-Planning-Template",
+          "description": "Career planning workspace for continuous professional development — tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance"
         },
         {
           "name": "Claude Code Lawyer",
@@ -93,9 +118,19 @@
           "description": "Workspace template for using Claude Code to create digital evidence bundles"
         },
         {
+          "name": "Claude FS Organiser",
+          "repo": "Claude-FS-Organiser",
+          "description": "Claude workspace for organising cluttered filesystems"
+        },
+        {
           "name": "Claude Gdrive Organiser",
           "repo": "Claude-Gdrive-Organiser",
           "description": "Template/pattern for using Claude Code to tame unwieldy Google Drives without OAuth"
+        },
+        {
+          "name": "Claude Georeaction Researcher",
+          "repo": "Claude-Georeaction-Researcher",
+          "description": "Claude template for analysing global sentiment/reaction to a geopolitical issue"
         },
         {
           "name": "Claude Github Shortlister",
@@ -106,6 +141,16 @@
           "name": "Claude Home Assistant Manager Template",
           "repo": "Claude-Home-Assistant-Manager-Template",
           "description": "Template for a Claude Code config at the base of a HAOS filesystem"
+        },
+        {
+          "name": "Claude House Search Template",
+          "repo": "Claude-House-Search-Template",
+          "description": "Workspace for managing a property search — adapts to rent, first-time buyer, or buyer mode. Tracks listings, viewings, agents, areas, comparables, offers, mortgage and legal."
+        },
+        {
+          "name": "Claude Israel Shopping Recommender Template",
+          "repo": "Claude-Israel-Shopping-Recommender-Template",
+          "description": "Israel-focused shopping recommender — domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills"
         },
         {
           "name": "Claude Job Search Strategist",
@@ -138,6 +183,11 @@
           "description": "Template for using Claude Code for OSINT-led investigations"
         },
         {
+          "name": "Claude Parenting Planner",
+          "repo": "Claude-Parenting-Planner",
+          "description": "Claude Code workspace for parenting planning — schedules, logistics, milestones, education, health, and family decision logs"
+        },
+        {
           "name": "Claude Personal Development Workspace",
           "repo": "Claude-Personal-Development-Workspace",
           "description": "Template for using Claude Code to track habit development and other \"life projects\""
@@ -156,6 +206,11 @@
           "name": "Claude Purchasing Assistant",
           "repo": "Claude-Purchasing-Assistant",
           "description": "Template for Claude Code repo for purchase planning"
+        },
+        {
+          "name": "Claude Recommendation Workspace Template",
+          "repo": "Claude-Recommendation-Workspace-Template",
+          "description": "AI-assisted content recommendations workspace that learns user preferences and improves suggestions over time across formats like podcasts, books, films, or articles"
         },
         {
           "name": "Claude Red Team Buyer",
@@ -198,6 +253,21 @@
           "description": "Claude Code server manager template adapted for single board computers"
         },
         {
+          "name": "Claude Single Company Research",
+          "repo": "Claude-Single-Company-Research",
+          "description": "Targeted intelligence-gathering workspace dedicated to a single company of interest. Multi-lens evaluation depth on one entity, not breadth across many."
+        },
+        {
+          "name": "Claude Slash Commands",
+          "repo": "Claude-Slash-Commands",
+          "description": "My Claude Code slash commands"
+        },
+        {
+          "name": "Claude Spam Warrior",
+          "repo": "Claude-Spam-Warrior",
+          "description": "Claude as email analysis and filter tuner"
+        },
+        {
           "name": "Claude Stack Research Workspace",
           "repo": "Claude-Stack-Research-Workspace",
           "description": "Claude Code workspace template for tech stack research"
@@ -211,6 +281,11 @@
           "name": "Claude Tech Research Team",
           "repo": "Claude-Tech-Research-Team",
           "description": "Example/template for using a Claude Code repo structure for tech/stack research"
+        },
+        {
+          "name": "Claude Technical Research Template",
+          "repo": "Claude-Technical-Research-Template",
+          "description": "Workspace for asking Claude technical how-to questions and publishing the answers as living, maintainable guides"
         },
         {
           "name": "Claude Therapy Tracker",
@@ -233,14 +308,174 @@
           "description": "Pattern for using Claude to help with any piece of writing"
         },
         {
+          "name": "Company Research",
+          "repo": "Company-Research",
+          "description": "Agentic AI workspace for conducting deep research into companies "
+        },
+        {
+          "name": "Conference Simulation Template",
+          "repo": "Conference-Simulation-Template",
+          "description": "Multi-perspective conference/symposium simulation with AI speaker personas"
+        },
+        {
+          "name": "Context Maintenance Template",
+          "repo": "Context-Maintenance-Template",
+          "description": "RAG vector store maintenance workspace with Pinecone MCP for ingestion, cleanup, and reconciliation"
+        },
+        {
+          "name": "Council Of Maniacs",
+          "repo": "Council-Of-Maniacs",
+          "description": "GitHub template: Council-Of-Maniacs"
+        },
+        {
+          "name": "Debate Mapper Template",
+          "repo": "Debate-Mapper-Template",
+          "description": "Map debate perspectives and compare policies across countries with cluster visualization"
+        },
+        {
+          "name": "Developer Notebook Template",
+          "repo": "Developer-Notebook-Template",
+          "description": "Structured developer reference notebook with categorized entries, snippets, and learnings"
+        },
+        {
+          "name": "Ecosystem Mapper",
+          "repo": "Ecosystem-Mapper",
+          "description": "Claude research utility to delineate an emerging tech ecosystem"
+        },
+        {
+          "name": "Ecosystem Mapper Template",
+          "repo": "Ecosystem-Mapper-Template",
+          "description": "Topic-scoped technology ecosystem map template — 22 entity buckets, /onboard + lens commands, optional geographic-lens overlay (soft, not a gate). Companion to Geo-Ecosystem-Template."
+        },
+        {
+          "name": "Experiment Report Template",
+          "repo": "Experiment-Report-Template",
+          "description": "Run experiments, collect trial data, analyze results, and generate reports"
+        },
+        {
+          "name": "Feature Ideas Template",
+          "repo": "Feature-Ideas-Template",
+          "description": "Capture, categorize, and prioritize feature ideas and requests"
+        },
+        {
           "name": "General Agent Workspace Template",
           "repo": "General-Agent-Workspace-Template",
           "description": "General purpose file scaffold / workspace for human-AI-agent collaboration"
         },
         {
+          "name": "Geo Ecosystem Template",
+          "repo": "Geo-Ecosystem-Template",
+          "description": "Geography-specific tech/industry ecosystem directory with categorized entries"
+        },
+        {
+          "name": "Github Index Maintainer",
+          "repo": "Github-Index-Maintainer",
+          "description": "Maintance agent for indexing repos"
+        },
+        {
+          "name": "Idea Capture Template",
+          "repo": "Idea-Capture-Template",
+          "description": "Multi-source idea capture workspace with voice recording transcription and consolidation"
+        },
+        {
+          "name": "Ideas To Reports Template",
+          "repo": "Ideas-To-Reports-Template",
+          "description": "Gather ideas, consolidate themes, and produce Typst-rendered stakeholder reports"
+        },
+        {
+          "name": "Ideation Runner Template",
+          "repo": "Ideation-Runner-Template",
+          "description": "Structured AI ideation sessions with configurable topics and synthesis"
+        },
+        {
+          "name": "Im Not Okay",
+          "repo": "Im-Not-Okay",
+          "description": "POC/Demo/Concept - using AI to frontload therapy"
+        },
+        {
+          "name": "Index",
+          "repo": "Index",
+          "description": "A repository that indexes my Github projects"
+        },
+        {
+          "name": "Inventory Analyst Template",
+          "repo": "Inventory-Analyst-Template",
+          "description": "AI-powered inventory data analysis for duplicates, anomalies, and optimization"
+        },
+        {
+          "name": "Negotiation Simulation Template",
+          "repo": "Negotiation-Simulation-Template",
+          "description": "Multi-party negotiation and diplomacy simulation workspace with configurable actors and synthesis"
+        },
+        {
+          "name": "Opinion Blog Template",
+          "repo": "Opinion-Blog-Template",
+          "description": "Personal opinion blog as a git repository with essay management and export"
+        },
+        {
+          "name": "Perspective Finder Prompt",
+          "repo": "Perspective-Finder-Prompt",
+          "description": "Prompt for mapping out nuances in debates"
+        },
+        {
+          "name": "Process Docs Template",
+          "repo": "Process-Docs-Template",
+          "description": "Generate and maintain process documentation, workflow guides, and handbooks"
+        },
+        {
+          "name": "Project Ideas Template",
+          "repo": "Project-Ideas-Template",
+          "description": "Track project ideas and feature requests for a software platform"
+        },
+        {
+          "name": "Prompt Factory Template",
+          "repo": "Prompt-Factory-Template",
+          "description": "Generate system prompts by combining configurable variable dimensions"
+        },
+        {
+          "name": "Prompt Library Template",
+          "repo": "Prompt-Library-Template",
+          "description": "Curated prompt library with metadata, categorization, and search"
+        },
+        {
           "name": "Proofmode Unpacker",
           "repo": "Proofmode-Unpacker",
           "description": "Claude space template for processing Proofmode evidence bundles"
+        },
+        {
+          "name": "SOP Builder Template",
+          "repo": "SOP-Builder-Template",
+          "description": "Create SOPs, decision flowcharts, and checklists from best practice guidelines"
+        },
+        {
+          "name": "Tech Radar Template",
+          "repo": "Tech-Radar-Template",
+          "description": "Personal tech radar for tracking interesting projects, tools, and resources"
+        },
+        {
+          "name": "Tech Stack Template",
+          "repo": "Tech-Stack-Template",
+          "description": "Document a personal or team tech stack with rationale and alternatives"
+        },
+        {
+          "name": "Transcript Cleanup Template",
+          "repo": "Transcript-Cleanup-Template",
+          "description": "Audio transcript cleanup workspace with Whisper transcription, diarisation, and PDF export"
+        },
+        {
+          "name": "Wiki Template",
+          "repo": "Wiki-Template",
+          "description": "Personal or project wiki with structured pages, cross-links, and navigation"
+        },
+        {
+          "name": "WIP Idea Template",
+          "repo": "WIP-Idea-Template",
+          "description": "Capture a single idea from voice notes, docs, or sketches and track its development"
+        },
+        {
+          "name": "Writing Examples Template",
+          "repo": "Writing-Examples-Template",
+          "description": "Collect writing format examples and generate AI-grounding style guides"
         }
       ]
     },
