@@ -64,6 +64,12 @@ Template for using Claude for household budget management
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
 
+### Claude Business Continuity Planner
+
+Claude workspace for business continuity planning
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Business-Continuity-Planner)
+
 ### Claude Business Evaluator
 
 Model/template: using Claude Code to evaluate business ideas
@@ -81,6 +87,12 @@ Model/template: using Claude Code to evaluate business ideas
 Career planning workspace for continuous professional development — tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Career-Planning-Template)
+
+### Claude Code LAN Manager
+
+Repo for using Claude Code to manage local servers/homelabs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-LAN-Manager)
 
 ### Claude Code Lawyer
 
@@ -111,6 +123,12 @@ Claude Code template for using Claude Code as a workspace for communications str
 Claude agent template for competitor research
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Competitor-Research-Agent)
+
+### Claude Conda Manager
+
+Template Claude Code workspace for managing Conda
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Conda-Manager)
 
 ### Claude Debugging Workspace
 
@@ -172,6 +190,12 @@ Template: use Claude to shortlist potential tools/components
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Github-Shortlister)
 
+### Claude Health Helper
+
+Model/template for using Claude for health applicadtions (see notes)
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Health-Helper)
+
 ### Claude Home Assistant Manager Template
 
 Template for a Claude Code config at the base of a HAOS filesystem
@@ -189,6 +213,12 @@ Workspace for managing a property search — adapts to rent, first-time buyer, o
 Israel-focused shopping recommender — domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Israel-Shopping-Recommender-Template)
+
+### Claude Ivory PC Builder
+
+Claude Code workspace template: Claude-Ivory-PC-Builder
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Ivory-PC-Builder)
 
 ### Claude Job Search Strategist
 
@@ -214,6 +244,12 @@ Template repository for creating a Claude Code structured workspace in a remote 
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
 
+### Claude Media Monitor
+
+Slash command for fetching news articles for human analysis
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Media-Monitor)
+
 ### Claude MVT Workspace
 
 Repository template for using Claude to orchestrate an MVT scan over ADB
@@ -237,6 +273,12 @@ Claude Code workspace for parenting planning — schedules, logistics, milestone
 Template for using Claude Code to track habit development and other "life projects"
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Personal-Development-Workspace)
+
+### Claude PR And Media Monitoring Workspace
+
+Slash command for fetching news articles for human analysis
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-PR-And-Media-Monitoring-Workspace)
 
 ### Claude Preparedness Planner
 
@@ -309,6 +351,12 @@ Template Claude space for computer upgrade planning
 Claude agent skeleton for conducting salary research
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Salary-Research-Agent)
+
+### Claude Server Manager Template
+
+Template repository for creating Claude Code structured workspace in a remote server environment
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Server-Manager-Template)
 
 ### Claude Server Mgmt Template SBCs
 

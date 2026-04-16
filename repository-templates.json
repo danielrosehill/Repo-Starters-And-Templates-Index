@@ -43,6 +43,11 @@
           "description": "Template for using Claude for household budget management"
         },
         {
+          "name": "Claude Business Continuity Planner",
+          "repo": "Claude-Business-Continuity-Planner",
+          "description": "Claude workspace for business continuity planning"
+        },
+        {
           "name": "Claude Business Evaluator",
           "repo": "Claude-Business-Evaluator",
           "description": "Model/template: using Claude Code to evaluate business ideas"
@@ -56,6 +61,11 @@
           "name": "Claude Career Planning Template",
           "repo": "Claude-Career-Planning-Template",
           "description": "Career planning workspace for continuous professional development — tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance"
+        },
+        {
+          "name": "Claude Code LAN Manager",
+          "repo": "Claude-Code-LAN-Manager",
+          "description": "Repo for using Claude Code to manage local servers/homelabs"
         },
         {
           "name": "Claude Code Lawyer",
@@ -81,6 +91,11 @@
           "name": "Claude Competitor Research Agent",
           "repo": "Claude-Competitor-Research-Agent",
           "description": "Claude agent template for competitor research"
+        },
+        {
+          "name": "Claude Conda Manager",
+          "repo": "Claude-Conda-Manager",
+          "description": "Template Claude Code workspace for managing Conda"
         },
         {
           "name": "Claude Debugging Workspace",
@@ -133,6 +148,11 @@
           "description": "Template: use Claude to shortlist potential tools/components"
         },
         {
+          "name": "Claude Health Helper",
+          "repo": "Claude-Health-Helper",
+          "description": "Model/template for using Claude for health applicadtions (see notes)"
+        },
+        {
           "name": "Claude Home Assistant Manager Template",
           "repo": "Claude-Home-Assistant-Manager-Template",
           "description": "Template for a Claude Code config at the base of a HAOS filesystem"
@@ -146,6 +166,11 @@
           "name": "Claude Israel Shopping Recommender Template",
           "repo": "Claude-Israel-Shopping-Recommender-Template",
           "description": "Israel-focused shopping recommender — domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills"
+        },
+        {
+          "name": "Claude Ivory PC Builder",
+          "repo": "Claude-Ivory-PC-Builder",
+          "description": "Claude Code workspace template: Claude-Ivory-PC-Builder"
         },
         {
           "name": "Claude Job Search Strategist",
@@ -168,6 +193,11 @@
           "description": "Template repository for creating a Claude Code structured workspace in a remote server environment"
         },
         {
+          "name": "Claude Media Monitor",
+          "repo": "Claude-Media-Monitor",
+          "description": "Slash command for fetching news articles for human analysis"
+        },
+        {
           "name": "Claude MVT Workspace",
           "repo": "Claude-MVT-Workspace",
           "description": "Repository template for using Claude to orchestrate an MVT scan over ADB"
@@ -186,6 +216,11 @@
           "name": "Claude Personal Development Workspace",
           "repo": "Claude-Personal-Development-Workspace",
           "description": "Template for using Claude Code to track habit development and other \"life projects\""
+        },
+        {
+          "name": "Claude PR And Media Monitoring Workspace",
+          "repo": "Claude-PR-And-Media-Monitoring-Workspace",
+          "description": "Slash command for fetching news articles for human analysis"
         },
         {
           "name": "Claude Preparedness Planner",
@@ -246,6 +281,11 @@
           "name": "Claude Salary Research Agent",
           "repo": "Claude-Salary-Research-Agent",
           "description": "Claude agent skeleton for conducting salary research"
+        },
+        {
+          "name": "Claude Server Manager Template",
+          "repo": "Claude-Server-Manager-Template",
+          "description": "Template repository for creating Claude Code structured workspace in a remote server environment"
         },
         {
           "name": "Claude Server Mgmt Template SBCs",
