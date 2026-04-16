@@ -292,6 +292,12 @@ Template for iterative AI research using Claude Code — folder-based context/pr
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Research-Workspace-General-Template)
 
+### Claude Resource List Builder
+
+Template for building curated resource lists with organized taxonomy, slash commands for setup/add/metrics/scout/reorg/export, and PDF export
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Resource-List-Builder)
+
 ### Claude Rig Planner
 
 Template Claude space for computer upgrade planning

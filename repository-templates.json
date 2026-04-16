@@ -233,6 +233,11 @@
           "description": "Template for iterative AI research using Claude Code — folder-based context/prompt/output workflow with compaction loop"
         },
         {
+          "name": "Claude Resource List Builder",
+          "repo": "Claude-Resource-List-Builder",
+          "description": "Template for building curated resource lists with organized taxonomy, slash commands for setup/add/metrics/scout/reorg/export, and PDF export"
+        },
+        {
           "name": "Claude Rig Planner",
           "repo": "Claude-Rig-Planner",
           "description": "Template Claude space for computer upgrade planning"
