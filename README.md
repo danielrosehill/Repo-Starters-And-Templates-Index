@@ -40,12 +40,6 @@ Claude research notebook into ADHD drug access
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
 
-### Claude Agent Workspace Generator
-
-Claude utility for creating workspace templates for agentic AI tools
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Agent-Workspace-Generator)
-
 ### Claude Agent Workspace Model
 
 Outline for using various repositories as discrete workspaces for Claude Code
@@ -322,12 +316,6 @@ Targeted intelligence-gathering workspace dedicated to a single company of inter
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Single-Company-Research)
 
-### Claude Slash Commands
-
-My Claude Code slash commands
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Slash-Commands)
-
 ### Claude Spam Warrior
 
 Claude as email analysis and filter tuner
@@ -484,12 +472,6 @@ POC/Demo/Concept - using AI to frontload therapy
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Im-Not-Okay)
 
-### Index
-
-A repository that indexes my Github projects
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Index)
-
 ### Inventory Analyst Template
 
 AI-powered inventory data analysis for duplicates, anomalies, and optimization
@@ -507,12 +489,6 @@ Multi-party negotiation and diplomacy simulation workspace with configurable act
 Personal opinion blog as a git repository with essay management and export
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Opinion-Blog-Template)
-
-### Perspective Finder Prompt
-
-Prompt for mapping out nuances in debates
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Perspective-Finder-Prompt)
 
 ### Process Docs Template
 

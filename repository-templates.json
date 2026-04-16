@@ -23,11 +23,6 @@
           "description": "Claude research notebook into ADHD drug access"
         },
         {
-          "name": "Claude Agent Workspace Generator",
-          "repo": "Claude-Agent-Workspace-Generator",
-          "description": "Claude utility for creating workspace templates for agentic AI tools"
-        },
-        {
           "name": "Claude Agent Workspace Model",
           "repo": "Claude-Agent-Workspace-Model",
           "description": "Outline for using various repositories as discrete workspaces for Claude Code"
@@ -258,11 +253,6 @@
           "description": "Targeted intelligence-gathering workspace dedicated to a single company of interest. Multi-lens evaluation depth on one entity, not breadth across many."
         },
         {
-          "name": "Claude Slash Commands",
-          "repo": "Claude-Slash-Commands",
-          "description": "My Claude Code slash commands"
-        },
-        {
           "name": "Claude Spam Warrior",
           "repo": "Claude-Spam-Warrior",
           "description": "Claude as email analysis and filter tuner"
@@ -393,11 +383,6 @@
           "description": "POC/Demo/Concept - using AI to frontload therapy"
         },
         {
-          "name": "Index",
-          "repo": "Index",
-          "description": "A repository that indexes my Github projects"
-        },
-        {
           "name": "Inventory Analyst Template",
           "repo": "Inventory-Analyst-Template",
           "description": "AI-powered inventory data analysis for duplicates, anomalies, and optimization"
@@ -411,11 +396,6 @@
           "name": "Opinion Blog Template",
           "repo": "Opinion-Blog-Template",
           "description": "Personal opinion blog as a git repository with essay management and export"
-        },
-        {
-          "name": "Perspective Finder Prompt",
-          "repo": "Perspective-Finder-Prompt",
-          "description": "Prompt for mapping out nuances in debates"
         },
         {
           "name": "Process Docs Template",
