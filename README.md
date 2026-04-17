@@ -4,7 +4,7 @@
 
 An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.
 
-**Last Updated:** April 2026
+**Last Updated:** 2026-04-17T18:13:24Z
 
 ---
 
@@ -543,6 +543,12 @@ Multi-party negotiation and diplomacy simulation workspace with configurable act
 Personal opinion blog as a git repository with essay management and export
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Opinion-Blog-Template)
+
+### Plex Synology Management Template
+
+Claude Code workspace for managing a locally hosted Plex Media Server alongside a Synology NAS — includes LAN discovery, onboarding flow, and API helpers
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Plex-Synology-Management-Template)
 
 ### Process Docs Template
 

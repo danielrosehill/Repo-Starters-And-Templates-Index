@@ -1,7 +1,7 @@
 {
   "title": "Repo Starters And Templates Index",
   "description": "An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.",
-  "last_updated": "April 2026",
+  "last_updated": "2026-04-17T18:13:24Z",
   "github_user": "danielrosehill",
   "sections": [
     {
@@ -441,6 +441,11 @@
           "name": "Opinion Blog Template",
           "repo": "Opinion-Blog-Template",
           "description": "Personal opinion blog as a git repository with essay management and export"
+        },
+        {
+          "name": "Plex Synology Management Template",
+          "repo": "Plex-Synology-Management-Template",
+          "description": "Claude Code workspace for managing a locally hosted Plex Media Server alongside a Synology NAS — includes LAN discovery, onboarding flow, and API helpers"
         },
         {
           "name": "Process Docs Template",
