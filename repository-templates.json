@@ -1,7 +1,7 @@
 {
   "title": "Repo Starters And Templates Index",
-  "description": "An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.",
-  "last_updated": "2026-04-17T18:13:24Z",
+  "description": "An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects \u2014 including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.",
+  "last_updated": "2026-04-19T21:45:27Z",
   "github_user": "danielrosehill",
   "sections": [
     {
@@ -30,7 +30,7 @@
         {
           "name": "Claude Blog Manager",
           "repo": "Claude-Blog-Manager",
-          "description": "Conversational CMS — model for using a Claude workspace to manage content"
+          "description": "Conversational CMS \u2014 model for using a Claude workspace to manage content"
         },
         {
           "name": "Claude Browser Automation Template",
@@ -60,7 +60,7 @@
         {
           "name": "Claude Career Planning Template",
           "repo": "Claude-Career-Planning-Template",
-          "description": "Career planning workspace for continuous professional development — tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance"
+          "description": "Career planning workspace for continuous professional development \u2014 tracks skill gaps, career goals/milestones, courses, certifications, and conference attendance"
         },
         {
           "name": "Claude Code LAN Manager",
@@ -133,6 +133,11 @@
           "description": "Claude workspace for organising cluttered filesystems"
         },
         {
+          "name": "Claude FX Pair Analyst Template",
+          "repo": "Claude-FX-Pair-Analyst-Template",
+          "description": "Claude Code workspace for FX pair analysis \u2014 historical data, quant/econometrics, vol modelling, grounded geopolitical framing, Typst PDF reports. Includes toolkit.json manifest and durable per-pair profiles."
+        },
+        {
           "name": "Claude Gdrive Organiser",
           "repo": "Claude-Gdrive-Organiser",
           "description": "Template/pattern for using Claude Code to tame unwieldy Google Drives without OAuth"
@@ -160,12 +165,12 @@
         {
           "name": "Claude House Search Template",
           "repo": "Claude-House-Search-Template",
-          "description": "Workspace for managing a property search — adapts to rent, first-time buyer, or buyer mode. Tracks listings, viewings, agents, areas, comparables, offers, mortgage and legal."
+          "description": "Workspace for managing a property search \u2014 adapts to rent, first-time buyer, or buyer mode. Tracks listings, viewings, agents, areas, comparables, offers, mortgage and legal."
         },
         {
           "name": "Claude Israel Shopping Recommender Template",
           "repo": "Claude-Israel-Shopping-Recommender-Template",
-          "description": "Israel-focused shopping recommender — domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills"
+          "description": "Israel-focused shopping recommender \u2014 domestic-first product evaluation, Amazon shippability check, and AliExpress fallback, with bundled Israel Online Shopping skills"
         },
         {
           "name": "Claude Ivory PC Builder",
@@ -210,7 +215,7 @@
         {
           "name": "Claude Parenting Planner",
           "repo": "Claude-Parenting-Planner",
-          "description": "Claude Code workspace for parenting planning — schedules, logistics, milestones, education, health, and family decision logs"
+          "description": "Claude Code workspace for parenting planning \u2014 schedules, logistics, milestones, education, health, and family decision logs"
         },
         {
           "name": "Claude Personal Development Workspace",
@@ -265,7 +270,7 @@
         {
           "name": "Claude Research Workspace General Template",
           "repo": "Claude-Research-Workspace-General-Template",
-          "description": "Template for iterative AI research using Claude Code — folder-based context/prompt/output workflow with compaction loop"
+          "description": "Template for iterative AI research using Claude Code \u2014 folder-based context/prompt/output workflow with compaction loop"
         },
         {
           "name": "Claude Resource List Builder",
@@ -380,7 +385,7 @@
         {
           "name": "Ecosystem Mapper Template",
           "repo": "Ecosystem-Mapper-Template",
-          "description": "Topic-scoped technology ecosystem map template — 22 entity buckets, /onboard + lens commands, optional geographic-lens overlay (soft, not a gate). Companion to Geo-Ecosystem-Template."
+          "description": "Topic-scoped technology ecosystem map template \u2014 22 entity buckets, /onboard + lens commands, optional geographic-lens overlay (soft, not a gate). Companion to Geo-Ecosystem-Template."
         },
         {
           "name": "Experiment Report Template",
@@ -445,7 +450,7 @@
         {
           "name": "Plex Synology Management Template",
           "repo": "Plex-Synology-Management-Template",
-          "description": "Claude Code workspace for managing a locally hosted Plex Media Server alongside a Synology NAS — includes LAN discovery, onboarding flow, and API helpers"
+          "description": "Claude Code workspace for managing a locally hosted Plex Media Server alongside a Synology NAS \u2014 includes LAN discovery, onboarding flow, and API helpers"
         },
         {
           "name": "Process Docs Template",
