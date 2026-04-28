@@ -724,11 +724,23 @@ Template repository for version controlling AI assistant configurations and asso
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Assistant-Template)
 
+### AI Dev Repo Template 1
+
+GitHub template seeded with every primitive from AI-Dev-Workspace-Primitives — fillable UPPERCASE.md stubs (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS, CONTEXT). Click "Use this template" to scaffold a new AI-assisted project.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Dev-Repo-Template-1)
+
 ### AI Dev Repo Template Oct 2025
 
 Updated AI-assisted dev repo template (swap preferred CLI)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
+
+### AI Dev Workspace Primitives
+
+Index of root-level UPPERCASE.md context-file primitives for AI-assisted projects (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS). Companion to AI-Dev-Repo-Template-1.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Dev-Workspace-Primitives)
 
 ### AI Project Spec Pattern
 

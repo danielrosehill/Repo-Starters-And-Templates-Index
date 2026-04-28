@@ -603,9 +603,19 @@
           "description": "Template repository for version controlling AI assistant configurations and associated context data"
         },
         {
+          "name": "AI Dev Repo Template 1",
+          "repo": "AI-Dev-Repo-Template-1",
+          "description": "GitHub template seeded with every primitive from AI-Dev-Workspace-Primitives — fillable UPPERCASE.md stubs (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS, CONTEXT). Click 'Use this template' to scaffold a new AI-assisted project."
+        },
+        {
           "name": "AI Dev Repo Template Oct 2025",
           "repo": "AI-Dev-Repo-Template-Oct-2025",
           "description": "Updated AI-assisted dev repo template (swap preferred CLI)"
+        },
+        {
+          "name": "AI Dev Workspace Primitives",
+          "repo": "AI-Dev-Workspace-Primitives",
+          "description": "Index of root-level UPPERCASE.md context-file primitives for AI-assisted projects (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS). Companion to AI-Dev-Repo-Template-1."
         },
         {
           "name": "AI Project Spec Pattern",
