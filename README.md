@@ -4,7 +4,7 @@
 
 An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.
 
-**Last Updated:** 2026-04-17T18:13:24Z
+**Last Updated:** 2026-08-12T17:55:24Z
 
 ---
 
@@ -171,6 +171,12 @@ Workspace template for using Claude Code to create digital evidence bundles
 Claude workspace for organising cluttered filesystems
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-FS-Organiser)
+
+### Claude FX Pair Analyst Template
+
+Claude Code workspace for FX pair analysis — historical data, quant/econometrics, vol modelling, grounded geopolitical framing, Typst PDF reports. Includes toolkit.json manifest and durable per-pair profiles.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-FX-Pair-Analyst-Template)
 
 ### Claude Gdrive Organiser
 
@@ -538,6 +544,12 @@ Multi-party negotiation and diplomacy simulation workspace with configurable act
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Negotiation-Simulation-Template)
 
+### Obsidian Research Vault Template
+
+AI research workspace that is also a working Obsidian vault — committed .obsidian/ config, frontmatter schema, wikilink discipline, note templates and a canvas, plus a CLAUDE.md that makes an agent honour them. No community plugins required.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Obsidian-Research-Vault-Template)
+
 ### Opinion Blog Template
 
 Personal opinion blog as a git repository with essay management and export
@@ -726,7 +738,7 @@ Template repository for version controlling AI assistant configurations and asso
 
 ### AI Dev Repo Template 1
 
-GitHub template seeded with every primitive from AI-Dev-Workspace-Primitives — fillable UPPERCASE.md stubs (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS, CONTEXT). Click "Use this template" to scaffold a new AI-assisted project.
+GitHub template seeded with every primitive from AI-Dev-Workspace-Primitives — fillable UPPERCASE.md stubs (USER_PROFILE, ENVIRONMENT, SPEC, BUDGET, PROJECT, TOOLS, PROCESS, RULES, PREFERENCES, LOG, STYLE, SCAFFOLDS, DOCS, GROUNDING, SECRETS, CONTEXT). Click 'Use this template' to scaffold a new AI-assisted project.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/AI-Dev-Repo-Template-1)
 
