@@ -1,6 +1,6 @@
 # Repo Starters And Templates Index
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 An index of repository starter templates, scaffolds, and patterns for bootstrapping new projects — including Claude Code workspace templates, project planning patterns, and general-purpose repo starters.
 
